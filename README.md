@@ -133,7 +133,8 @@ Note that in the file below there are no log entries for 6:58
 At 7:06 I used "Restart" to power down (and the power up) the laptop.  
 Note that in the file below there are log entries for 7:06
 
-At 7:15 I used closed the lid on my laptop, and unplugged the power cable.  Ten minutes later I opened the lid.
+At 7:15 I used closed the lid on my laptop, and unplugged the power cable.  
+Ten minutes later I opened the lid.  
 Note that in the file below there are no log entries for 7:15 or 7:25
 
     C:\LocalApps\apache-tomcat-9.0.64\logs\tomcat9-stdout.2022-07-12.log
