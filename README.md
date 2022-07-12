@@ -124,17 +124,17 @@ command, except that I have modified the BootStrap.groovy file as shown below.
     = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
     = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
 
-at 6:53 I used the "Services" window to stop and start the "Apache Tomcat 9.0 Tomcat9" process
-note that in the file below there are log entries for 6:53
+At 6:53 I used the "Services" window to stop and start the "Apache Tomcat 9.0 Tomcat9" process.  
+Note that in the file below there are log entries for 6:53
 
-at 6:58 I used "Shut down" to power down (and the power up) the laptop
-note that in the file below there are no log entries for 6:58
+At 6:58 I used "Shut down" to power down (and the power up) the laptop.  
+Note that in the file below there are no log entries for 6:58
 
-at 7:06 I used "Restart" to power down (and the power up) the laptop
-note that in the file below there are log entries for 7:06
+At 7:06 I used "Restart" to power down (and the power up) the laptop.  
+Note that in the file below there are log entries for 7:06
 
-at 7:15 I used closed the lid on my laptop, and unplugged the powere.  Ten minutes later I opened the lid.
-note that in the file below there are no log entries for 7:15 or 7:25
+At 7:15 I used closed the lid on my laptop, and unplugged the power cable.  Ten minutes later I opened the lid.
+Note that in the file below there are no log entries for 7:15 or 7:25
 
     C:\LocalApps\apache-tomcat-9.0.64\logs\tomcat9-stdout.2022-07-12.log
 
